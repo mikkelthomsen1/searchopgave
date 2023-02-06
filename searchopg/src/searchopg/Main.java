@@ -21,6 +21,8 @@ public class Main {
 		} else
 			System.out.println("element is located at: [" + index + "]");
 
+
+			
 		String[] teachers = { "Xiaolei", "Jan", "Flemming" }; // array of strings search
 		Arrays.sort(teachers);
 
