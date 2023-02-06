@@ -13,7 +13,7 @@ public class Main {
 	 System.out.println("");
 	 System.out.println("det søgte element er er placeret på [" + Arrays.binarySearch(tabel,5)+"]");
 	 
-	 
+	 //123
 	 //test
  }
  
